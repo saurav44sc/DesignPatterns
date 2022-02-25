@@ -1,0 +1,33 @@
+********** CREATIONAL *********
+
+1. Singleton
+2. Factory
+3. Abstract Factory
+4. Builder
+5. Prototype
+
+
+********** STRUCTURAL *********
+
+1. Adapter
+2. Composite
+3. Proxy
+4. Fly Weight
+5. Facade
+6. Bridge
+7. Decorator
+
+
+********** BEHAVIOURAL *********
+
+1. Template
+2. Mediator
+3. Chain of Responsibility
+4. Observer
+5. Strategy
+6. Command
+7. State
+8. Visitor
+9. Iterator
+10. Interpreter
+11. Memento
